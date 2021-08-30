@@ -6,6 +6,7 @@ A back end for an e-commerce site by taking a working Express.js API and configu
 
 ## Demo
 ![Employee Tracker](assets/images/ecom-backend.gif)
+Video: [https://www.youtube.com/watch?v=v1U9Yrr4zr4]
 
 
 ## Technologies
