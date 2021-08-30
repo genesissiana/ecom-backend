@@ -3,7 +3,9 @@
 ## Description
 A back end for an e-commerce site by taking a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
+
 ## Demo
+![Employee Tracker](assets/images/ecom-backend.gif)
 
 
 ## Technologies
